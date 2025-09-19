@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+#regist{
+	width :400px;
+}
+
+#regist input{
+	width: 100%;
+	height: 20px;
+	margin: 5px;
+}
